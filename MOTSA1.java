@@ -49,4 +49,4 @@ public class MOTSA1{
         System.out.print("]");
         System.out.println();
     }
-}3
+}
