@@ -80,4 +80,5 @@ public class MOTSA2{
 
 
 
-//better approach since we are minimizing the time complexity by getting rid of temp array
+//better approach since we are minimizing the space  complexity by getting rid of temp array o(1)
+//time complexity is still O(m + n)
